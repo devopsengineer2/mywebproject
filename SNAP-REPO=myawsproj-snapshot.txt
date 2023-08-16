@@ -1,0 +1,11 @@
+SNAP-REPO=myawsproj-snapshot
+NEXUS-USER=admin
+NEXUS-PASS=admin123
+RELEASE-REPO=myawsproj-release
+CENTRAL-REPO=myawsproj-mavn-central
+NEXUS-GRP-REPO=myawsproj-mvn-group
+NEXUSIP=172.31.6.63
+NEXUSPORT=8081
+
+
+xoxb-5742557416356-5737231232229-tvs43xn410U0wmCGIYPepiDv
